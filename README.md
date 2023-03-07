@@ -16,11 +16,10 @@ Clone this repository to your local machine or download the ZIP file and extract
 
 1. Run main.py
 2. The game window will appear with a blank map of India and a text box to enter your guess.
-3. Click on the map to place a marker where you think the state is located.
-4. Type the name of the state in the text box and press the "Check" button to see if your guess is correct.
-5. If your guess is correct, the state name will be displayed on the map and you can move on to the next state.
-6. If your guess is incorrect, a message will be displayed with the correct answer.
-7. The game ends when you have correctly guessed all the states.
+3. Type the name of the state in the text box and press the "Ok" button to see if your guess is correct.
+4. If your guess is correct, the state name will be displayed on the map and you can move on to the next state.
+5. If your guess is incorrect, you can try again.
+6. The game ends when you have correctly guessed all the states or you can type Exit to end the game.
 
 ## Acknowledgements
 
